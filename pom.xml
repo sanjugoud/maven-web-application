@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.4-SNAPSHOT</version>
 	
 	<name>maven-web-application</name>
 
@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>packagesnapshot</name>
-	      <url>http://13.233.199.252:8081/repository/packagesnapshot/</url>
+	      <url>http://13.233.153.178:8081/repository/packagesnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
